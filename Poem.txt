@@ -4,6 +4,7 @@ Pink
 Orange
 Unicorn
 Green
+Indigo
 Blue
 Yellow
 Red
